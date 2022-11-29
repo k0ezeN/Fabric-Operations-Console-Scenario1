@@ -6,7 +6,7 @@ git clone git@github.com:k0ezeN/Fabric-Operations-Console-Scenario1.git
 
 ## Setup :
 
-cd Fabric-console-Org1
+`cd Fabric-console-Org1`
 
 # Bring up Network
 `./scripts/setupNetwork.sh up`
@@ -17,7 +17,7 @@ cd Fabric-console-Org1
 # Create Org1 Zip File
 `./scripts/createAssets.sh`
 
-cd ../Fabric-console-Org2
+`cd ../Fabric-console-Org2`
 
 # Bring up Org2 console
 `./scripts/setupConsole.sh up`
