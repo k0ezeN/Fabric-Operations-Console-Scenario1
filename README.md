@@ -2,7 +2,7 @@
 
 ## Clone repo :
 
-git clone git@github.com:k0ezeN/Fabric-Operations-Console-Scenario1.git
+`git clone git@github.com:k0ezeN/Fabric-Operations-Console-Scenario1.git`
 
 ## Setup :
 
